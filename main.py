@@ -15,3 +15,5 @@ if __name__ == '__main__':
 	h = Hello()
 	h.printHello()
 	h.printValue()
+	print('These are the new changes'.upper())
+	
